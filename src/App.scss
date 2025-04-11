@@ -105,7 +105,7 @@ html {
       &::after {
         background: linear-gradient(to bottom, #51CAFF, #009BDE);
       }
-      &::hover {
+      &:hover {
         border-color: #009BDE;
         color: #009BDE;
         &::after {
